@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[iri:home|Door43 (iri)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-iri|d43-iri repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-iri/archive/master.zip|d43-iri.zip]]
+
+**Recent Changes**
+{{changes>ns = iri}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/iri|Ethnologue data]]
+
